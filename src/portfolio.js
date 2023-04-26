@@ -132,7 +132,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux, Vue",
-        "⚡ Creating application backend in Node, Express & Flask, Laravel, Rails",
+        "⚡ Creating application backend in Laravel, Rails, Node, Express & Flask",
       ],
       softwareSkills: [
         {
