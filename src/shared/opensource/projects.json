@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "MGMA Online Import-License Application System",
+      "createdDate": "Oct-2019",
+      "endDate": "Present",
+      "url": "https://eramyanmar.com/technology-development/online-import-license-application-%e2%80%a8system/",
+      "description": "MGMA, is an apex business association for the Myanmar garment sector which had an idea to develop an online import license system which is able to work self-sufficiently through online working process between local garment factories, MGMA and Ministry of Commerce (MOC). An online import license web application which allows local garment factories to apply online license application to MGMA and receive the license approval directly from Ministry of Commerce. The system assists MGMA to easily review all application forms and automatically log customer data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "logos-laravel"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "logos-docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Shwe Job Smart Worker Guide",
+      "createdDate": "Nov-2019",
+      "endDate": "Dec-2022",
+      "url": "https://eramyanmar.com/technology-development/shwe-job-worker-guide-application-android-ios/",
+      "description": "SMART Myanmar, an educational mobile application, is functioning with a combination of text, illustrations and voiceovers for easy learning purpose for all garment factory workers. Our team has delivered the product: Android application (English and Myanmar version), iOS application (Chinese version), backend system, UI/UX and creative design, illustrations, voiceovers, and storyline. Moreover, the user survey is assigned to pop up on the fourth times the user opens the Shwe Job application. An application completely free to download and to use for the garment factory workers.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "logos-laravel"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "logos-docker"
+        }
+      ]
+    }
+  ]
+}
