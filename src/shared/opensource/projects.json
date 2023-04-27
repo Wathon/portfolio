@@ -3,24 +3,12 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "MGMA Online Import-License Application System",
-      "createdDate": "Oct-2019",
+      "createdDate": "Oct 2019",
       "endDate": "Present",
       "url": "https://eramyanmar.com/technology-development/online-import-license-application-%e2%80%a8system/",
       "description": "MGMA, is an apex business association for the Myanmar garment sector which had an idea to develop an online import license system which is able to work self-sufficiently through online working process between local garment factories, MGMA and Ministry of Commerce (MOC). An online import license web application which allows local garment factories to apply online license application to MGMA and receive the license approval directly from Ministry of Commerce. The system assists MGMA to easily review all application forms and automatically log customer data.",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
         {
           "name": "Laravel",
           "iconifyClass": "logos-laravel"
@@ -32,37 +20,276 @@
         {
           "name": "Dockerfile",
           "iconifyClass": "logos-docker"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "DigitalOcean",
+          "iconifyClass": "logos-digital-ocean"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
       "name": "Shwe Job Smart Worker Guide",
-      "createdDate": "Nov-2019",
-      "endDate": "Dec-2022",
+      "createdDate": "Nov 2019",
+      "endDate": "Dec 2022",
       "url": "https://eramyanmar.com/technology-development/shwe-job-worker-guide-application-android-ios/",
       "description": "SMART Myanmar, an educational mobile application, is functioning with a combination of text, illustrations and voiceovers for easy learning purpose for all garment factory workers. Our team has delivered the product: Android application (English and Myanmar version), iOS application (Chinese version), backend system, UI/UX and creative design, illustrations, voiceovers, and storyline. Moreover, the user survey is assigned to pop up on the fourth times the user opens the Shwe Job application. An application completely free to download and to use for the garment factory workers.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
           "name": "Laravel",
           "iconifyClass": "logos-laravel"
         },
         {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
           "name": "Dockerfile",
           "iconifyClass": "logos-docker"
+        },
+        {
+          "name": "DigitalOcean",
+          "iconifyClass": "logos-digital-ocean"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH2",
+      "name": "JTI Gold Program",
+      "createdDate": "Dec 2020",
+      "endDate": "Jun 2022",
+      "url": "https://goldcampaign.firebaseapp.com/",
+      "description": "A communications platform that incentivizes retailers to learn about JTI's products, with a focus on the Kiwami of Mavius new product. The project involved creating an admin panel that allowed for customized multi-campaign programs, as well as setting up games for each week of the campaigns and designing a reporting dashboard to track progress and outcomes. The goal was to educate retailers on JTI's products and motivate them to promote and sell them more effectively.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH3",
+      "name": "Union Pay Go for Gold Online Campaign",
+      "createdDate": "Nov 2019",
+      "endDate": "Dec 2022",
+      "url": "https://eramyanmar.com/technology-development/go-for-gold-microsite/",
+      "description": "Union Pay International is a global card payment organization offering high quality, cost-effective and secure cross-border payment services to the world’s largest cardholder base. In Myanmar, it offers convenient local services to a growing number of global Union Pay cardholders and merchants. With its communication objectives of raising brand awareness, increasing the local cardholder base and generating interest in Union Pay promotions and card products, UPI Myanmar was looking to step into the digital arena with a promotion campaign that incorporated an online approach.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker"
+        },
+        {
+          "name": "DigitalOcean",
+          "iconifyClass": "logos-digital-ocean"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH4",
+      "name": "Order Management System (Voxer)",
+      "createdDate": "Dec 2018",
+      "endDate": "Sep 2019",
+      "url": "https://www.linkedin.com/in/wathonaung/details/projects/",
+      "description": "Voxer_OMS tends to support order fulfillment processes in the distribution business. It targets Business-to-Consumer (B2C) e-commerce across digital channels. Currently, our primary target is potential customers who are already using Salesforce Commerce Cloud.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AngularJS",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "RubyonRail",
+          "iconifyClass": "logos-rails"
+        },
+        {
+          "name": "Jenkin",
+          "iconifyClass": "logos-jenkins"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH5",
+      "name": "Byscote",
+      "createdDate": "May 2018",
+      "endDate": "Nov 2018",
+      "url": "https://www.linkedin.com/in/wathonaung/details/projects/",
+      "description": "A movie streaming application like Netflix is an online platform that allows users to stream movies, TV shows, documentaries, and other video content on demand. It typically requires a subscription fee that grants users unlimited access to a vast library of content that they can watch at any time and on any device with an internet connection.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Drupal",
+          "iconifyClass": "logos-drupal"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH6",
+      "name": "License/Provision System",
+      "createdDate": "May 2017",
+      "endDate": "Apr 2018",
+      "url": "https://www.linkedin.com/in/wathonaung/details/projects/",
+      "description": "Licensing service for POS applications and merchant devices control. Provisioning service for POS cloud applications and merchant devices.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Ruby On Rails",
+          "iconifyClass": "logos-rails"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        },
+        {
+          "name": "Redis",
+          "iconifyClass": "logos-redis"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH7",
+      "name": "Consolidate Report System",
+      "createdDate": "Feb 2018",
+      "endDate": "Mar 2018",
+      "url": "https://www.linkedin.com/in/wathonaung/details/projects/",
+      "description": "This system is an online reporting system to monitor and analytic for multi-merchant POS OLTP transaction data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Ruby On Rails",
+          "iconifyClass": "logos-rails"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        },
+        {
+          "name": "Redis",
+          "iconifyClass": "logos-redis"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH8",
+      "name": "Data Sync with ETL (BreadTalk)",
+      "createdDate": "Mar 2017",
+      "endDate": "Jun 2017",
+      "url": "https://www.linkedin.com/in/wathonaung/details/projects/",
+      "description": "The system is aiming to extract, transform, load, and sync from OLTP to OLAP system.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Ruby On Rails",
+          "iconifyClass": "logos-rails"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        },
+        {
+          "name": "Redis",
+          "iconifyClass": "logos-redis"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH9",
+      "name": "Fuel Management System (Global FMS)",
+      "createdDate": "May 2016",
+      "endDate": "Feb 2017",
+      "url": "https://globalfms.com.mm/",
+      "description": "GlobalFMS have many features that help Fuel stations keep up with busy daily operation such as sales, payment functions, tank inventory, assign management, customer accounts, comprehensive reports, promotion, loyalty program, ect...",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Grooby On Grails",
+          "iconifyClass": "logos-grails"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYH9",
+      "name": "Online reporting System(POS)",
+      "createdDate": "May 2015",
+      "endDate": "May 2016",
+      "url": "https://www.globalpos.com.mm/",
+      "description": "This system tends to support consolidated reporting for different branches of merchants of a company.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "Microsoft SQL Server",
+          "iconifyClass": "logos-aws-rds"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
         }
       ]
     }
