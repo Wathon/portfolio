@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6f5221184378e0e967dd013c441f97a",
+    "revision": "e2dca9d162b00cd73dd47593e4397f05",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "6af1f4e4a584f5fb26d0",
+    "revision": "d22f1ff50591ea03bd7e",
     "url": "/portfolio/static/css/main.7b2523e7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.04f4f549.chunk.js"
   },
   {
-    "revision": "6af1f4e4a584f5fb26d0",
-    "url": "/portfolio/static/js/main.d9588a35.chunk.js"
+    "revision": "d22f1ff50591ea03bd7e",
+    "url": "/portfolio/static/js/main.8d435b35.chunk.js"
   },
   {
     "revision": "715110702c109a23bf4b",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/blogs_image.058eca4c.svg"
   },
   {
-    "revision": "adf45a9f608f9ce76a8429893ef48e10",
-    "url": "/portfolio/static/media/c2l_logo.adf45a9f.png"
+    "revision": "afd89d78fc38cc0ab9f9e33daaebc3c0",
+    "url": "/portfolio/static/media/c2l_logo.afd89d78.png"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
