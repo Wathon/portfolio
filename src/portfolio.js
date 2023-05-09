@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "As a highly motivated backend developer with over seven years of experience, I have a proven track record of delivering high-quality and efficient software solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1PZnnMwgeo_UjfWhYyu3cOXVNLCe5kBMf/view?usp=share_link",
+    "https://drive.google.com/file/d/1sQZvXWQQ-llx48R0nkJ14lkWCwXWXGu7/view?usp=share_link",
   portfolio_repository: "https://github.com/wathon",
   githubProfile: "https://github.com/wathon",
 };
