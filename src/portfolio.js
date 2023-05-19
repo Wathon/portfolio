@@ -86,47 +86,55 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    // {
-    //   title: "Data Science & AI",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "Data Engineering",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Designing and Implementing a Real-Time Data Processing Pipeline",
+        "⚡ Building a Scalable Data Warehouse",
+        "⚡ Implementing a Cloud-Based Data Lake",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Apache Airflow",
+          fontAwesomeClassname: "logos-airflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "dbt",
+          fontAwesomeClassname: "logos:dbt",
+          style: {
+            backgroundColor: "transparent",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "logos:docker-icon",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "logos:postgresql",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
@@ -263,7 +271,7 @@ const skills = {
         },
         {
           skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
+          fontAwesomeClassname: "logos:docker-icon",
           style: {
             color: "#1488C6",
           },
