@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Wathon Aung",
   logo_name: "WathonAung",
-  nickname: "Riki",
+  nickname: "Adam",
   subTitle:
     "As a highly motivated backend developer with over seven years of experience, I have a proven track record of delivering high-quality and efficient software solutions.",
   resumeLink:
