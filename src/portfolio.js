@@ -762,10 +762,9 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "THE BASE Sukhumvit 77, On Nut Rd, Phra Khanong Nuea, Watthana Bangkok",
+    subtitle: "Yangon, Myanmar",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/Ps2T4PB2Af7zwVuL9?g_st=ic",
+    location_map_link: "https://wathon.github.io/portfolio/#/home",
   },
   phoneSection: {
     title: "",
